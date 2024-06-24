@@ -2,7 +2,7 @@ const express = require("express");
 const route=require("./routes/petRouter");
 const app=express();
 const port=3000;
-const data=require("../resources/petData");
+//const data=require("../resources/petData");
 
 app.use(express.json());
 //app.use("/",route);
