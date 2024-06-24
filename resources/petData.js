@@ -11,7 +11,7 @@ const data= [
       "price": "250"
     },
     {
-      "name": "Dr. Vernon Chwe",
+      "name": "vicky beta",
       "spe": "Veterinary Surgery",
       "rating": "4.9",
       "dis": "1.5",
