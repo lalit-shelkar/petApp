@@ -1,6 +1,6 @@
 const data= [
     {
-      "name": "Dr. Anna Johanson",
+      "name": "vicky kutrya",
       "spe": "Veterinary Behavioral",
       "rating": "4.8",
       "dis": "1.0",
