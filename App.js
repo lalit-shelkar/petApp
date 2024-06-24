@@ -5,10 +5,7 @@ const port=3000;
 
 
 app.use(express.json());
-//app.use("/",route);
-app.get("/",(req,res)=>{
-    res.send("hehhehhe");
-});
+app.use("/api/v1",route);
 
 app.listen(port,()=>{
     console.log("App is running")
