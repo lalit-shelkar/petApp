@@ -9,9 +9,9 @@ app.use(express.json());
 app.get("/",(req,res)=>{
     res.send("hehhehhe");
 });
-app.get("/petData",(req,res)=>{
-    res.send(data);
-});
+// app.get("/petData",(req,res)=>{
+//     res.send(data);
+// });
 
 app.listen(port,()=>{
     console.log("App is running")
